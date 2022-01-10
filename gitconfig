@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = f.djeumen@gmail.com
+	name = francoise djeumen
